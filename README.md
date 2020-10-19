@@ -6,4 +6,4 @@
 #### Refer to the tableau public--that has a smaller version of my Design Name: COVID-TWITTER Heat Map & Trajectrories ON
 https://public.tableau.com/profile/sindhu8276#!/
 
-![GitHub Logo](/images/logo.png)
+##### ![Screenshot](screenshot.png)
