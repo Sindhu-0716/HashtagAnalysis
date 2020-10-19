@@ -3,8 +3,8 @@
 
  Using Twitter Streaming API, Python, and MongoDB, developed a Heat Map and Moving Average trendline charts to spot how trending Twitter Hashtags correlate to the number of COVID cases in the US. 
  
-###### * *file docker.py shows - - Pulling tweets using python Tweepy stream, storing real-time Json like tweets in MongoDB, using PyMongo to connect to the DB- -
-###### * *after filtering specific hashtags export data into Tableau Prep for data cleaning & Tableu to perform Exploratory Data Analysis and Feature Engineering.
+* * file docker.py shows - - Pulling tweets using python Tweepy stream, storing real-time Json like tweets in MongoDB, using PyMongo to connect to the DB- -
+* * after filtering specific hashtags export data into Tableau Prep for data cleaning & Tableu to perform Exploratory Data Analysis and Feature Engineering.
 
 ##### Parameters: SET GRADIENT for New+Deaths or Cumulative+Deaths or New+Positive Cases or Cumulative+Positive Cases  &
 ##### COUNT OF TWEETS FOR TRENDING HASHTAGS are BUBBLED.
